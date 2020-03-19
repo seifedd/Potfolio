@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Academic</title>
+    <link>/tags/other/</link>
+      <atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2016 14:49:04 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Other</title>
+      <link>/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning of voice pathologies</title>
+      <link>/project/project2/</link>
+      <pubDate>Tue, 15 Mar 2016 14:49:04 -0700</pubDate>
+      <guid>/project/project2/</guid>
+      <description>&lt;p&gt;Classification of human voice, acquisition of samples of 4-6s.
+Designed patterns to distinguish normal voice from many different common speech disorders such as stuttering&lt;/p&gt;
+&lt;p&gt;Performed pitch estimation and analysis of basic features of the speech signal. Speech recordings in wav audio format with 20 KHz sampling rate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

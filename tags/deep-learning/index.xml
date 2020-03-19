@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Academic</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2018 01:48:05 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Wideband Radio signal classification and Jamming detection</title>
+      <link>/project/proeject1/</link>
+      <pubDate>Mon, 15 Jan 2018 01:48:05 -0700</pubDate>
+      <guid>/project/proeject1/</guid>
+      <description>&lt;h2 id=&#34;performed-data-cleaning-of-thousands-of-real-signals-records&#34;&gt;Performed data cleaning of thousands of real signals records.&lt;/h2&gt;
+&lt;h2 id=&#34;designed-a-technique-to-recognize-digital-and-analog-modulations-in-wireless-environment-for-application-related-to-wideband-spectrum-surveillance-and-dynamic-spectrum-access&#34;&gt;Designed a technique to recognize digital and analog modulations in Wireless environment for application related to wideband spectrum surveillance and dynamic spectrum access.&lt;/h2&gt;
+&lt;h2 id=&#34;identified-modulation-types-of-signals-in-wide-band-spectrum&#34;&gt;Identified modulation types of signals in Wide band spectrum.&lt;/h2&gt;
+&lt;h2 id=&#34;achieved-90-accuracy-while-at-noisy-channel-with-20-higher-than-the-existing--techniques-in-fading-impaired-chann&#34;&gt;Achieved 90% accuracy while at noisy channel with 20% higher than the existing  techniques in fading impaired chann&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

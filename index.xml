@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Academic</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Wideband Radio signal classification and Jamming detection</title>
+      <link>/project/proeject1/</link>
+      <pubDate>Mon, 15 Jan 2018 01:48:05 -0700</pubDate>
+      <guid>/project/proeject1/</guid>
+      <description>&lt;h2 id=&#34;performed-data-cleaning-of-thousands-of-real-signals-records&#34;&gt;Performed data cleaning of thousands of real signals records.&lt;/h2&gt;
+&lt;h2 id=&#34;designed-a-technique-to-recognize-digital-and-analog-modulations-in-wireless-environment-for-application-related-to-wideband-spectrum-surveillance-and-dynamic-spectrum-access&#34;&gt;Designed a technique to recognize digital and analog modulations in Wireless environment for application related to wideband spectrum surveillance and dynamic spectrum access.&lt;/h2&gt;
+&lt;h2 id=&#34;identified-modulation-types-of-signals-in-wide-band-spectrum&#34;&gt;Identified modulation types of signals in Wide band spectrum.&lt;/h2&gt;
+&lt;h2 id=&#34;achieved-90-accuracy-while-at-noisy-channel-with-20-higher-than-the-existing--techniques-in-fading-impaired-chann&#34;&gt;Achieved 90% accuracy while at noisy channel with 20% higher than the existing  techniques in fading impaired chann&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning of voice pathologies</title>
+      <link>/project/project2/</link>
+      <pubDate>Tue, 15 Mar 2016 14:49:04 -0700</pubDate>
+      <guid>/project/project2/</guid>
+      <description>&lt;p&gt;Classification of human voice, acquisition of samples of 4-6s.
+Designed patterns to distinguish normal voice from many different common speech disorders such as stuttering&lt;/p&gt;
+&lt;p&gt;Performed pitch estimation and analysis of basic features of the speech signal. Speech recordings in wav audio format with 20 KHz sampling rate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
