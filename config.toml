@@ -1,7 +1,20 @@
-# Academic Website Builder
-# https://sourcethemes.com/academic/
-#
-# The presence of this file is for compatibility with Blogdown and Forestry.
-# If you are not using those tools, this file may be deleted.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
+baseurl = ""
+languageCode = "en-us"
+title = "RH.io"
+theme = "academic"
+copyright = ""
+publishdir = "seifedd.github.io"
+[Author]
+	name = "Seif"
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+[params]
+	description = "Site description"
+	twitter = "https://twitter.com/xyz"
+	github = "https://github.com/xyz"
+	disqus = ""
