@@ -1,4 +1,4 @@
-baseurl = "http://seifedd.github.io"
+baseurl = "https://seifedd.github.io/blog/"
 languageCode = "en-us"
 title = "RH.io"
 theme = "hyde"
